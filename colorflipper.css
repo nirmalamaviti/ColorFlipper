@@ -1,0 +1,23 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.color{
+    height: 50px;
+    border: 2px solid black;
+    width: 450px;
+    text-align: center; 
+    font-size: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#btn{
+    
+}
+.colorr{
+    display: grid;
+     place-items: center; 
+     height: 100vh;
+}
